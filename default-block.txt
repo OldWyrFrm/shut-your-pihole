@@ -1,4 +1,4 @@
-#pihole domain blacklist
+# domain blocklist for default
 api.gcs.garmin.com
 connectapi.garmin.com
 connect.garmin.com.cdn.cloudflare.net

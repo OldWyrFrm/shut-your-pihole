@@ -1,0 +1,51 @@
+# domain block list for pogo
+# =========================
+# Apple – location, DNS, telemetry
+# =========================
+(^|\.)apple-dns\.net$
+(^|\.)gs-loc\.apple\.com$
+(^|\.)apple-cloudkit\.com$
+(^|\.)apple-mapkit\.com$
+(^|\.)icloud\.com$
+(^|\.)icloud\.com\.cn$
+(^|\.)icloud-content\.com$
+(^|\.)mzstatic\.com$
+(^|\.)cdn-apple\.com$
+(^|\.)apple\.news$
+(^|\.)me\.com$
+(^|\.)itunes\.com$
+(^|\.)appstore\.com$
+
+# =========================
+# Niantic
+# =========================
+(^|\.)nianticlabs\.com$
+
+# =========================
+# Google / Firebase / Analytics
+# =========================
+(^|\.)firebaselogging-pa\.googleapis\.com$
+(^|\.)region1\.app-analytics-services\.com$
+(^|\.)geolocation-db\.com$
+(^|\.)clients1\.google\.com$
+(^|\.)clients2\.google\.com$
+(^|\.)clients3\.google\.com$
+(^|\.)clients4\.google\.com$
+(^|\.)waa-pa\.clients6\.google\.com$
+(^|\.)googlehosted\.l\.googleusercontent\.com$
+
+# =========================
+# CDN / DNS / Edge providers
+# =========================
+(^|\.)akadns\.net$
+(^|\.)akamai\.net$
+(^|\.)edgekey\.net$
+(^|\.)cloudfront\.net$
+(^|\.)amazonaws\.com$
+
+# =========================
+# Advertising / Tracking
+# =========================
+(^|\.)doubleclick\.net$
+(^|\.)crashlytics\.com$
+(^|\.)gstatic\.com$

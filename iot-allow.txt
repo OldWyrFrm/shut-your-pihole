@@ -1,0 +1,1 @@
+# domain allow list for iot
