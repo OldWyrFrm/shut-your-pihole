@@ -1,4 +1,4 @@
-# domain blocklist for default
+# domain blocklist for all clients in baseline pihole group
 api.gcs.garmin.com
 connectapi.garmin.com
 connect.garmin.com.cdn.cloudflare.net
