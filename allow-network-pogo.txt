@@ -1,4 +1,4 @@
-# allowed domains on pogo networks
+# domain allow list for clients on iot network
 
 mb.thinkskysoft.com
 vlocapi.thinkskysoft.com
