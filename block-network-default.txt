@@ -1,1 +1,1 @@
-
+# domain blocklist for all clients on default network
