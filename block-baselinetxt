@@ -1,1 +1,85 @@
 # domain blocklist for all clients in baseline pihole group
+
+# ============================================================
+# Google Advertising / Analytics
+# ============================================================
+
+www.google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+www.googletagmanager.com
+googletagmanager.com
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+stats.g.doubleclick.net
+ad.doubleclick.net
+adservice.google.com
+adservice.google.ca
+
+
+# ============================================================
+# Microsoft Advertising / Telemetry
+# ============================================================
+
+bat.bing.com
+browser.events.data.microsoft.com
+self.events.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+settings-win.data.microsoft.com
+watson.telemetry.microsoft.com
+
+
+# ============================================================
+# Apple Advertising / Analytics
+# ============================================================
+
+iadsdk.apple.com
+metrics.icloud.com
+metrics.apple.com
+xp.apple.com
+
+
+# ============================================================
+# Amazon Advertising
+# ============================================================
+
+aax.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+c.amazon-adsystem.com
+s.amazon-adsystem.com
+
+
+# ============================================================
+# Adobe Analytics / Marketing
+# ============================================================
+
+assets.adobedtm.com
+
+
+# ============================================================
+# Generic Advertising Platforms
+# ============================================================
+
+ads.pubmatic.com
+adsrvr.org
+adnxs.com
+ib.adnxs.com
+securepubads.g.doubleclick.net
+
+
+# ============================================================
+# Tracking / Attribution
+# ============================================================
+
+app-measurement.com
+appsflyer.com
+adjust.com
+branch.io
+
+
+# ============================================================
+# Cloudflare Web Analytics
+# ============================================================
+
+static.cloudflareinsights.com
