@@ -7,3 +7,9 @@ clients3.google.com
 # Tonies
 prod.de.tbs.toys
 rtnl.bxcl.de
+
+# Vizio
+control2.tvinteractive.tv
+announcements.vizio.com
+geo-prod.smartcasttv.com
+mcp.tvinteractive.tv
