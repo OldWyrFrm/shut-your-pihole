@@ -6,6 +6,7 @@ clients3.google.com
 clients2.google.com
 clients1.google.com
 nest-camera-media-upload.googleapis.com
+trouter-us.production.nest.com
 
 # Tonies
 prod.de.tbs.toys
