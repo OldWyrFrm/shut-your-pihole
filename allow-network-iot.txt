@@ -5,6 +5,7 @@ frontdoor.nest.com
 clients3.google.com
 clients2.google.com
 clients1.google.com
+nest-camera-media-upload.googleapis.com
 
 # Tonies
 prod.de.tbs.toys
