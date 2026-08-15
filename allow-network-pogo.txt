@@ -1,1 +1,18 @@
+# allowed domains on pogo networks
 
+mb.thinkskysoft.com
+vlocapi.thinkskysoft.com
+tile.thinkskysoft.com
+tile-raw.thinkskysoft.com
+assets.thinkskysoft.com
+ws.thinkskysoft.com
+pgorelease.nianticlabs.com
+platform-account-assets.nianticlabs.com
+identity.nianticlabs.com
+armodels.eng.nianticlabs.com
+pushgateway-release.nianticlabs.com
+analytics.nianticlabs.com
+pgorelease-assets.nianticstatic.com
+armodels.eng.nianticspatial.com
+n21lbs-inapps.appsflyersdk.com
+n21lbs-launches.appsflyersdk.com
