@@ -3,6 +3,8 @@
 # Google Nest
 frontdoor.nest.com
 clients3.google.com
+clients2.google.com
+clients1.google.com
 
 # Tonies
 prod.de.tbs.toys
