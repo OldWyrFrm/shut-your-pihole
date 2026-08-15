@@ -6,6 +6,7 @@
 
 ingest.quantummetric.com
 insight.adsrvr.org
+browser-intake-datadoghq.com
 
 # ============================================================
 # Google Advertising / Analytics
@@ -22,6 +23,7 @@ stats.g.doubleclick.net
 ad.doubleclick.net
 adservice.google.com
 adservice.google.ca
+app-analytics-services.com
 
 
 # ============================================================
