@@ -17,3 +17,4 @@ armodels.eng.nianticspatial.com
 n21lbs-inapps.appsflyersdk.com
 n21lbs-launches.appsflyersdk.com
 n21lbs-skadsdkless.appsflyersdk.com
+asset-cdn-rel.nianticstatic.com
