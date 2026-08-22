@@ -16,3 +16,4 @@ pgorelease-assets.nianticstatic.com
 armodels.eng.nianticspatial.com
 n21lbs-inapps.appsflyersdk.com
 n21lbs-launches.appsflyersdk.com
+n21lbs-skadsdkless.appsflyersdk.com
