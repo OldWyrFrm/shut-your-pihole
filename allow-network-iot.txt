@@ -5,9 +5,11 @@ frontdoor.nest.com
 clients3.google.com
 clients2.google.com
 clients1.google.com
-nest-camera-media-upload.googleapis.com
+tools.google.com
 trouter-us.production.nest.com
+nest-camera-media-upload.googleapis.com
 lycraservice-pa-cam-prod.googleapis.com
+connectivitycheck.gstatic.com
 
 # Tonies
 prod.de.tbs.toys
