@@ -7,6 +7,7 @@ clients2.google.com
 clients1.google.com
 tools.google.com
 time.google.com
+www.googleapis.com
 trouter-us.production.nest.com
 nest-camera-media-upload.googleapis.com
 lycraservice-pa-cam-prod.googleapis.com
